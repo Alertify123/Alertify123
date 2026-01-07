@@ -24,7 +24,7 @@ My goal is to build systems that are not only functional but inherently secure.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=intel&logoColor=white)
 
-* **Software & Web (The Extras)**
+* **Software & Web**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
