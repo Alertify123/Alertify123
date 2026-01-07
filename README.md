@@ -24,7 +24,7 @@ My goal is to build systems that are not only functional but inherently secure.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=intel&logoColor=white)
 
-* **Web & Full Stack (The Versatility)**
+* **Web & Full Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
