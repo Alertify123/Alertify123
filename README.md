@@ -1,4 +1,4 @@
-## Hi there, I'm Chris 🫡
+## Hi there, Chris here! 🫡
 
 
 ### 🔧 Computer Engineering Student @ Concordia University
