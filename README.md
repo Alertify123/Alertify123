@@ -39,7 +39,7 @@ My goal is to build systems that are not only functional but inherently secure.
 
 I bring the same competitive energy to Engineering that I do to gaming:
 
-* 🏆 **Top 500 Global** in *Marvel Rivals*.
+* 🏆 **Top 400 Global** in *Marvel Rivals*.
 * ⭐ **Top 5,000 NA** in *Valorant* (Immortal Rank).
 * 🎤 When I'm not debugging C code or grinding ranked, I'm either cooking or singing!
 
