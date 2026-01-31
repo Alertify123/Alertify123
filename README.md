@@ -2,7 +2,7 @@
 
 
 ### 🔧 Computer Engineering Student @ Concordia University
-**Focus:** Embedded Systems | Cybersecurity
+**Focus:** Robotics | Embedded Systems | Cybersecurity
 
 I am not just a software developer. I am an engineer who builds the bridge between hardware and code.
 
