@@ -36,6 +36,7 @@ My goal is to build systems that are not only functional but inherently secure.
 ---
 
 ### ⚡ Fun Facts
+![MarvelRivalsMarvelrivalsGIF](https://github.com/user-attachments/assets/9321fb09-efc1-46b5-8e50-816fedfeb5de)
 
 I bring the same competitive energy to Engineering that I do to gaming:
 
