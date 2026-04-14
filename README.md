@@ -1,69 +1,72 @@
-## Hi there, Chris here! 🫡
+## Hi, I’m Chris 👋
 
+### Computer Engineering Student @ Concordia University
+**Core Interests:** Robotics • Embedded Systems • Software Development • Cybersecurity
 
-### 🔧 Computer Engineering Student @ Concordia University
-**Focus:** Robotics | Embedded Systems | Cybersecurity
-
-I am not just a software developer. I am an engineer who builds the bridge between hardware and code.
-
-My goal is to build systems that are not only functional but inherently secure.
+I enjoy building systems from the hardware layer up to the application layer—with reliability and security in mind.
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 What I’m Building
+- 🤖 Robotics projects with **ROS2** (including **Turtlesim**, point cloud, and LaserScan workflows)
+- 🔌 Embedded systems work with **Arduino** and **Embedded C** (including a hovercraft project)
+- 💻 Backend-focused software projects (routing + API logic, JSON-based persistence)
+- 🔐 Practical cybersecurity labs using Kali Linux tooling
 
-* **The "Low Level"**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-2C3E50?style=for-the-badge&logo=c&logoColor=white)
+
+### Robotics & Embedded
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5A67D8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=intel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-* **Security & Tools**
+### Backend & Web Fundamentals
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### Cybersecurity Toolkit
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=intel&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-1E1E1E?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-6D4C41?style=for-the-badge)
 
-* **Web & Full Stack**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### ⚡ Fun Facts
-![MarvelRivalsMarvelrivalsGIF](https://github.com/user-attachments/assets/9321fb09-efc1-46b5-8e50-816fedfeb5de)
+## 🎯 Current Focus
+- Building stronger robotics perception pipelines in ROS2
+- Writing cleaner backend APIs and improving testing habits
+- Deepening offensive and defensive cybersecurity fundamentals
 
-I bring the same competitive energy to Engineering that I do to gaming:
+---
 
-* 🏆 **Top 400 Global** in *Marvel Rivals*.
-* ⭐ **Top 5,000 NA** in *Valorant* (Immortal Rank).
-* 🎤 When I'm not debugging C code or grinding ranked, I'm either cooking or singing!
+## ⚡ Fun Facts
+- 🏆 Top 400 Global in **Marvel Rivals**
+- ⭐ Top 5,000 NA in **Valorant** (Immortal)
+- 🎤 Outside of engineering: cooking, music, and competition
 
-### 📫 Let's Connect
+---
+
+## 📫 Let’s Connect
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/chrisjan-alejandro)
-
-
-
-
-
-
-
-<!--
-**Alertify123/Alertify123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
