@@ -1,17 +1,9 @@
-## Hi, I’m Chris 👋
+## Hey there, Chris here 😊
 
 ### Computer Engineering Student @ Concordia University
 **Core Interests:** Robotics • Embedded Systems • Software Development • Cybersecurity
 
-I enjoy building systems from the hardware layer up to the application layer—with reliability and security in mind.
-
----
-
-## 🚀 What I’m Building
-- 🤖 Robotics projects with **ROS2** (including **Turtlesim**, point cloud, and LaserScan workflows)
-- 🔌 Embedded systems work with **Arduino** and **Embedded C** (including a hovercraft project)
-- 💻 Backend-focused software projects (routing + API logic, JSON-based persistence)
-- 🔐 Practical cybersecurity labs using Kali Linux tooling
+I enjoy building systems from the hardware layer up to the application layer, with reliability and security in mind.
 
 ---
 
@@ -64,7 +56,7 @@ I enjoy building systems from the hardware layer up to the application layer—w
 ## ⚡ Fun Facts
 - 🏆 Top 400 Global in **Marvel Rivals**
 - ⭐ Top 5,000 NA in **Valorant** (Immortal)
-- 🎤 Outside of engineering: cooking, music, and competition
+- 🎤 Outside of engineering: cooking, music, and sports
 
 ---
 
