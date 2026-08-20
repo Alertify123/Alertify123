@@ -53,12 +53,5 @@ I enjoy building systems from the hardware layer up to the application layer, wi
 
 ---
 
-## ⚡ Fun Facts
-- 🏆 Top 400 Global in **Marvel Rivals**
-- ⭐ Top 5,000 NA in **Valorant** (Immortal)
-- 🎤 Outside of engineering: cooking, music, and sports
-
----
-
 ## 📫 Let’s Connect
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/chrisjan-alejandro)
